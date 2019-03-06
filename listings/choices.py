@@ -18,7 +18,7 @@ price_choices = {
 }
 
 state_choices = {
-    'MAŁOP': 'Małopolskie',
-    'POM': 'Pomorskie',
-    'ZACHPOM': 'Zachodniopomorskie',
+    'Małopolskie': 'Małopolskie',
+    'Pomorskie': 'Pomorskie',
+    'Zachodniopomorskie': 'Zachodniopomorskie'
 }
